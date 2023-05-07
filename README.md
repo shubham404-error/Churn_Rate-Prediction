@@ -14,10 +14,11 @@ The model was evaluated using accuracy, precision, recall, F1 score, and ROC AUC
 The best performing model was a random forest classifier with an accuracy of 80%, F1 score of 0.58, and PR AUC of 0.57.
 
 ## Files
-telco_churn.ipynb: Jupyter notebook containing the code for the project
-telco_data.csv: dataset used in the project
-README.md: this readme file
-Dependencies
+-telco_churn.ipynb: Jupyter notebook containing the code for the project
+-telco_data.csv: dataset used in the project
+-README.md: this readme file
+
+## Dependencies
 The project requires the following Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost.
 
 ## Acknowledgements
