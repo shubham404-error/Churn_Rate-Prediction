@@ -15,7 +15,9 @@ The best performing model was a random forest classifier with an accuracy of 80%
 
 ## Files
 -telco_churn.ipynb: Jupyter notebook containing the code for the project
+
 -telco_data.csv: dataset used in the project
+
 -README.md: this readme file
 
 ## Dependencies
@@ -26,4 +28,5 @@ The dataset used in this project was obtained from Kaggle: https://www.kaggle.co
 
 ## References
 Géron, A. (2019). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems. O'Reilly Media, Inc.
+
 Brownlee, J. (2020). How to Develop a Baseline Model for Telecommunications Churn. Machine Learning Mastery. https://machinelearningmastery.com/develop-baseline-model-performance-for-telecom-churn/
