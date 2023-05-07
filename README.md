@@ -1,5 +1,3 @@
-# Churn_Rate-Prediction
-
 # Churn Rate Prediction on Telco Dataset
 This is a machine learning project that aims to predict the churn rate of a telecommunications company's customers.
 
